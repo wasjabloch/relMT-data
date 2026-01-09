@@ -9,3 +9,4 @@ as a user.
 Folder structure:
 
 `doc/` Documentation data
+`examples/` Data and images used in the examples
