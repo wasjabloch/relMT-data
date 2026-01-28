@@ -10,3 +10,4 @@ Folder structure:
 
 `doc/` Documentation data
 `examples/` Data and images used in the examples
+`notebooks/` Executed jupyter notebooks for documentation
